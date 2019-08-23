@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "sourceRoot": "src",
+    "outDir": "dist",
+    "inlineSourceMap": true,
+    "lib": ["es2015"]
+  }
+}
